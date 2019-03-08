@@ -11,6 +11,9 @@
 
   1. 2309 일곱난쟁이 https://www.acmicpc.net/problem/2309
 
+  2. 1182 부분수열의 합 <https://www.acmicpc.net/problem/1182>
+
       
 
 > 출처 백준 알고리즘
+
