@@ -13,8 +13,9 @@
   1. 1463 1로 만들기_ver.1  <https://www.acmicpc.net/problem/1463>
      - Top - down 방식
   2. 1463 1로 만들기_ver.2  <https://www.acmicpc.net/problem/1463>
-     - Bottom -up 방식 
+     - Bottom -up 방식
 
-
+  3. 9465 스티커 <https://www.acmicpc.net/problem/9465>
+     - Bottom -up 방식
 
 > 출처 백준 알고리즘
