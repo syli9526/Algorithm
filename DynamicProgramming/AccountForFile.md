@@ -18,4 +18,11 @@
   3. 9465 스티커 <https://www.acmicpc.net/problem/9465>
      - Bottom -up 방식
 
+  4. 11055 가장 큰 증가 부분수열 <https://www.acmicpc.net/problem/11055>
+
+     - Bottom -up 방식
+
+       
+
 > 출처 백준 알고리즘
+
