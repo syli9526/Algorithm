@@ -12,8 +12,8 @@ int main() {
 
     for (int i = 0; i < N; ++i) {
         scanf("%d %d", &w, &v);
-        for (int j = K; j >= w; j--)
-            dp[j] = max(dp[j - w] + v, dp[j]);
+        for (int j = K; j >= w; j--) // 현재 입력한 무게 ~ 최대 들고 다닐수 있는 무게까지 검사
+            dp[j] = max(dp[j - w] + v, dp[j]); // 가치의 최대 비교해서 넣음
     }
     printf("%d", dp[K]);
 }
