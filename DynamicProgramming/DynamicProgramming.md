@@ -8,7 +8,7 @@
 
 
 
-![image-20190311125920278](/Users/soyul/Library/Application Support/typora-user-images/image-20190311125920278.png)
+<img width="464" alt="스크린샷 2019-03-11 오후 12 55 01" src="https://user-images.githubusercontent.com/48287388/54100154-695e7e80-4400-11e9-896f-15d9848ee6b8.png">
 
 ​	피보나치 수열을 단순 탐색으로 구현한다고 하면 위와 같이 f(3)이 2번, f(2)는 3번, f(1)은 4번 f(0)은 3번 호출이 된다.
 
