@@ -4,11 +4,13 @@
 
   동적 계획법이 사용되는 대표적인 예로 피보나치 함수 계산을 보자. 피보나치 함수란 다음과 같이 정의된다
 
-###### 							f(N) = f(N-1)+f(N-2) (f(0) = 1, f(1) = 1)
+######<center>f(N) = f(N-1)+f(N-2) (f(0) = 1, f(1) = 1)</center>
 
 
 
-<img width="464" alt="스크린샷 2019-03-11 오후 12 55 01" src="https://user-images.githubusercontent.com/48287388/54100154-695e7e80-4400-11e9-896f-15d9848ee6b8.png">
+<center><img width="464" alt="스크린샷 2019-03-11 오후 12 55 01" src="https://user-images.githubusercontent.com/48287388/54100154-695e7e80-4400-11e9-896f-15d9848ee6b8.png"></center>
+
+
 
 ​	피보나치 수열을 단순 탐색으로 구현한다고 하면 위와 같이 f(3)이 2번, f(2)는 3번, f(1)은 4번 f(0)은 3번 호출이 된다.
 
