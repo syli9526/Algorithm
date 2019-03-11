@@ -49,7 +49,9 @@
   5. 12865 평범한 배낭 <https://www.acmicpc.net/problem/12865>
      - Bottom -up 방식
 
-  
+  6. 2294 동전2 <https://www.acmicpc.net/problem/2294>
+
+     
 
   > 출처 백준 알고리즘
 

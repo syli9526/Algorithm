@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 const int MAX = 100001;
 int N, K, dp[MAX];
 
@@ -22,31 +21,3 @@ int main() {
     printf("%d", dp[K] < 100000 ? dp[K] : -1);
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
