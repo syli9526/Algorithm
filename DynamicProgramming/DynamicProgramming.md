@@ -20,7 +20,7 @@
 
 
 
-######1. Top-down 과 Bottom-up
+###### 1. Top-down 과 Bottom-up 
 
 동적 계획법의 구현은 크게 Top-Down방식과 Bottom-Up방식으로 나뉘어진다. Top-Down방식은 큰 문제에서 작은 부분문제를 재귀적으로 호출하여 리턴 되는 값을 이용하여 큰 문제를 해결하는 방식이다. 중복되는 부분문제를 피하기 위해 앞서 소개한 Memoization기법을 함께 사용하며, 위에서 다룬 피보나치 함수의 구현방법 또한 이에 속한다.
 
@@ -32,7 +32,7 @@
 
 ###### 2. DP 대표 코드(동전교환문제)
 
-~~~c++
+```c++
 #include <iostream>
 using namespace std;
 
@@ -60,13 +60,13 @@ int main() {
     cout << d[k] << "\n";
     return 0;
 }
-~~~
+```
 
 
 
-----
+------
 
-* DP문제 
+- DP문제 
 
   1. 1463 1로 만들기_ver.1  <https://www.acmicpc.net/problem/1463>
      - Top - down 방식
