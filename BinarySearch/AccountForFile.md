@@ -40,10 +40,12 @@
 * 이진탐색 문제
 
   1. 1920 수 찾기 <https://www.acmicpc.net/problem/1920>
-
   2. 15732 도토리 숨기기 <https://www.acmicpc.net/problem/15732>
+  3. 2130 수조 <https://www.acmicpc.net/problem/2130>
 
-     
+  
+
+  
 
   > 백준 알고리즘
 
