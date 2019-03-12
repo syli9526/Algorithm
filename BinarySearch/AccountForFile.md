@@ -1,10 +1,11 @@
 # 이진탐색(Binary Search)
 
 * 이진탐색(Binary Search)은 정렬된 배열에서 원하는 값을 시간복잡도 O(log N) 만에 찾아내는 탐색 방법
-
 * 오름차순으로 정렬된 사이즈가 N인 배열 D에서 원하는값 k를 찾는 방법은 다음과 같다 (k = 10)
 
-  
+
+
+######1. 이진탐색 개념도
 
 | L     |       |       | M     |       |       |       | R     |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
@@ -32,6 +33,57 @@
 이 알고리즘의 시간복잡도는 쿼리당 O(logN)으로 빠른 알고리즘이다. 
 
 정렬 알고리즘 또한 힙 또는 퀵 정렬을 사용하면 더 효율적이다.
+
+
+
+###### 2. 이진탐색 기본 코드
+
+~~~c++
+#include <iostream>
+#include <algorithm>
+
+#define MAX 5005
+
+int d[MAX], n;
+
+bool bsearch(int val){
+
+	int l = 0, r  = n - 1;
+
+	while(l <= r){
+		int mid = (l+r)/2;
+
+		if(val == d[mid]) return true;
+		else if(val > d[mid]) l = mid + 1;
+		else r = mid - 1;
+	}
+
+	return false;
+}
+
+int main() {
+	scanf("%d", &n);
+
+	for (int i = 0; i < n; i++)
+		cin >> d[i];
+
+	sort(d, d + n);
+
+	int query;
+
+	cin >> query;
+
+	while (query--) {
+		int x; cin >> x;
+
+		if (bsearch(x)) cout << "exist" << endl;
+		else cout << "not exist" << endl;
+	}
+}
+	
+~~~
+
+
 
 -----
 
