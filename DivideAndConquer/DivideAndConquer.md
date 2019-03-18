@@ -39,8 +39,7 @@ m단계 : 2^m*O(N/(2^m)) = O(N)
 위의 음영 처리된 부분은 중복된 sub-problem으로 이를 분할할 때마다 처리한다면 매우 비효율적일 것이다. 이와 같은 문제는 분할정복보다는 동적계획법의 Top-Down 접근법(Memoization)으로 접근하는 것이 효율적이다.
 
 
-
-#####2. 분할정복 알고리즘 묘사도
+##### 2. 분할정복 알고리즘 묘사도
 
 ![divide_conquer_3_steps](https://user-images.githubusercontent.com/48287388/54517430-05f6c280-49a5-11e9-84e6-08be79e0481a.png)
 
