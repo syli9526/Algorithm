@@ -13,7 +13,9 @@
 
   2. 1182 부분수열의 합 <https://www.acmicpc.net/problem/1182>
 
-      
+  3. 3085 사탕게임 <https://www.acmicpc.net/problem/3085>
+
+       
 
 > 출처 백준 알고리즘
 
