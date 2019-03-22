@@ -19,6 +19,10 @@
 
   5. 1018 체스판 다시 칠하기 <https://www.acmicpc.net/problem/1018>
 
+  6. 10448 유레카이론 <https://www.acmicpc.net/problem/10448>
+
+  7. 9095 1,2,3 더하기 <https://www.acmicpc.net/problem/9095>
+
        
 
 > 출처 백준 알고리즘
