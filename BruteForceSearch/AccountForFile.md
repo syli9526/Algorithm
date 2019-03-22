@@ -15,6 +15,10 @@
 
   3. 3085 사탕게임 <https://www.acmicpc.net/problem/3085>
 
+  4. 2231 분해합  <https://www.acmicpc.net/problem/2231>
+
+  5. 1018 체스판 다시 칠하기 <https://www.acmicpc.net/problem/1018>
+
        
 
 > 출처 백준 알고리즘
