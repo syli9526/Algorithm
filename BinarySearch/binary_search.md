@@ -87,9 +87,13 @@ int main() {
 -----
 
 * 이진탐색 문제
-  1. 1920 수 찾기 <https://www.acmicpc.net/problem/1920>
-  2. 15732 도토리 숨기기 <https://www.acmicpc.net/problem/15732>
-  3. 2130 수조  <https://www.acmicpc.net/problem/2130>
+  1. [**1920 수 찾기**](https://www.acmicpc.net/problem/15732)
+  2. [**15732 도토리 숨기기**](https://www.acmicpc.net/problem/15732)
+  3. [**2130 수조**](https://www.acmicpc.net/problem/2130)
+  4. [**10815 숫자카드**](https://www.acmicpc.net/problem/10815)
+  5. [**2805 나무자르기**](https://www.acmicpc.net/problem/2805)
+  6. [**1654 랜선 자르기**](https://www.acmicpc.net/problem/1654)
+  7.  [**3020 개똥벌레**](https://www.acmicpc.net/problem/3020)
 
 
 
